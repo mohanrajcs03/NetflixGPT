@@ -3,3 +3,10 @@
   - npm i -D tailwind
   - npx tailwind init
   - npm i -D react-router-dom
+  - npm install firebase
+  - npm install -g firebase-tools
+  - firebase login
+  - firebase init
+  - firebase deploy
+  - npm i -D @reduxjs/toolkit
+  - npm i react-redux
